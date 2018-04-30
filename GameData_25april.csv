@@ -1,4 +1,4 @@
-duration (s),mode,map,score,kills,deaths,k/d,assists,headshots,accuracy (%),avg kill dist (),fave weapon,fave rig,fave trait,win?
+Duration(s),Mode,Map,Score,Kills,Deaths,Kills/Deaths,Assists,Headshots,Accuracy(%),Avg. Kill Dist.(m),Favorite Weapon,Favorite Rig,Favorite Trait,Win/Loss
 480,0,0,106,12,19,0.63,5,1,0.175,23.1,0,0,0,0
 480,0,0,106,19,20,0.95,5,0,0.212,24.1,0,1,1,0
 480,0,0,106,12,23,0.52,6,2,0.14,14,1,2,2,0
